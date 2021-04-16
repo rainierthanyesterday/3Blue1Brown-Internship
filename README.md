@@ -10,7 +10,7 @@
 
 ### This is an exam review I created for an Algebra II student in GoogleForms so he could acclimate to the online test-taking environment.
 
-## [Sample 3](./Sample3.png)
+## [Sample 3](./Sample3.PNG)
 
 ### This is a graphic I created in GeoGebra constructing two points that are 3/7 and 6/7 of the distance along a random line segment.
 
